@@ -2,7 +2,7 @@ Fizzbuzz in many languages
 ======
 The [Fizzbuzz](https://en.wikipedia.org/wiki/Fizz_buzz "fizzbuzz on wikipedia")-algorithm.
  
-Pull requests very welcome!
+Pull requests very welcome! Please add other versions of already existing solutions as well :-)
 
 ## Contact
 * http://repat.de
